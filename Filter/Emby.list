@@ -1,8 +1,3 @@
-HOST-SUFFIX,123456.al,Emby
-HOST-SUFFIX,aca.misakaf.org,Emby
+HOST-SUFFIX,emby.media
 HOST-SUFFIX,emby.wtf,Emby
-HOST-SUFFIX,misakaf.workers.dev,Emby
-HOST-SUFFIX,stream1.misakaf.org,Emby
-HOST-SUFFIX,stream2.misakaf.org,Emby
-HOST-SUFFIX,stream3.misakaf.org,Emby
-HOST-SUFFIX,stream4.misakaf.org,Emby
+HOST-SUFFIX,emby.mb3admin.com
